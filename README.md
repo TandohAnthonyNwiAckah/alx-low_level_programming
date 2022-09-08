@@ -1,2 +1,2 @@
-# alx-low_level_programming
+# ALX LOW LEVEL PROGRAMMING
 ALX intro to C
